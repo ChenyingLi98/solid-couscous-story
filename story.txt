@@ -1,1 +1,5 @@
-After Anna took CS400 in UW, she found something strange about her cat named Root. Sometimes when she plans to program, her cat just concentrate on the screen. One day when Anna tried to finish her homework, she was surprised!
+After Anna took CS400 in UW, she found something strange about her cat named Root. Sometimes when she plans to program, her cat just concentrate on the screen. One day when Anna tried to finish her homework, she was surprised! 
+
+The cat put its paw on the keyboard and had typed in a "}" in the correct position to solve Anna struggle to compile this program. Anna wondered if the cat had known how to code, so she decided to leave the cat with her computer 
+for a while. She took a hour long break, and she decided to check in on her computer. She had found a whole inner class written for her project! She couldn't believe it! She decided to let her cat do the assignments for next week 
+also. However, Anna soon will realize that this isn't a good idea.

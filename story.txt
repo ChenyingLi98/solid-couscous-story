@@ -2,4 +2,5 @@ After Anna took CS400 in UW, she found something strange about her cat named Roo
 
 The cat put its paw on the keyboard and had typed in a "}" in the correct position to solve Anna struggle to compile this program. Anna wondered if the cat had known how to code, so she decided to leave the cat with her computer 
 for a while. She took a hour long break, and she decided to check in on her computer. She had found a whole inner class written for her project! She couldn't believe it! She decided to let her cat do the assignments for next week 
-also. However, Anna soon will realize that this isn't a good idea.
+also. However, Anna soon will realize that this isn't a good idea. 
+Little did Anna know, her cat was a part of a Computer Science cat Revolution! Cats around the world were planning on programming a mysterious project in order to make cats the rulers of the world. Anna looked at the supposed projects her cat was suppose to complete. She thought to herself: "I don't remember the assignments looking like this." Anna soon put the pieces of puzzle together together. She needed to do something to stop the Computer Science Cat Revolution! 
